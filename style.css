@@ -1,0 +1,36 @@
+header{
+    border: solid 2px red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+
+#ejercicio-2{
+    border: solid 2px red;
+    margin: 10px;
+}
+
+#ejercicio-3{
+    border: solid 2px red;
+    margin: 10px;
+}
+
+#ejercicio-4{
+    border: solid 2px red;
+    margin: 10px;
+}
+
+
+#ejercicio-5{
+    border: solid 2px red;
+    margin: 10px;
+}
+
+
+#ejercicio-6{
+    border: solid 2px red;
+    margin: 10px;
+}
